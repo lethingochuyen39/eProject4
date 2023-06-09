@@ -1,0 +1,3 @@
+[submodule "school_management"]
+	path = school_management
+	url = https://github.com/lethingochuyen39/school_management.git
